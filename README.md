@@ -3,8 +3,8 @@
 Hi, I'm Alex Vazquez, Senior Architect at TIBCO. ex-UST. ex-Accenture. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexandrev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/alexandrev/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alexandrev/)](https://instagram.com/aleexandrev)
-[![Medium Badge](https://img.shields.io/badge/-@alexandrev?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alexandrev/)](https://medium.com/@alexandrev)
+[![Instagram Badge](https://img.shields.io/badge/-alexandrev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alexandrev/)](https://instagram.com/aleexandrev)
+[![Medium Badge](https://img.shields.io/badge/-alexandrev?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alexandrev/)](https://medium.com/@alexandrev)
 [![Gmail Badge](https://img.shields.io/badge/-alexandre.vazquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.vazquez@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## ⚡ Technologies
